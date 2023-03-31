@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi GitHub,<br>🔭 I’m currently working on SQL, Python, C#<br>👯 I’m looking to collaborate on SQL and Python<br>🤝 I’m looking for help with SQL and C#<br>🌱 I’m currently learning advanced SQL and Machine Learning<br>💬 Ask me about<br>
+Hi GitHub,<br>🔭 I’m currently working on SQL, Python, C#<br>👯 I’m looking to collaborate on SQL and Python<br>🤝 I’m looking for help with SQL and C#<br>🌱 I’m currently learning advanced level SQL and Machine Learning<br>💬 Ask me about<br>
 
 
 ## 🌐 Socials:
